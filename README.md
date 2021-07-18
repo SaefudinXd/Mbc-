@@ -13,6 +13,6 @@ $ cd Mbc-
 
 $ git pull
 
-$ python2 Mbc.py
+$ python2 mbc.py
 
 
