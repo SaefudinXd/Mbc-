@@ -5,11 +5,11 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/SaefudinXd/Mbc²
+$ git clone https://github.com/SaefudinXd/Mbc-
 
 $ pip install requests bs4 cowsay
 
-$ cd Mbc²
+$ cd Mbc-
 
 $ git pull
 
