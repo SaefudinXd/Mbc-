@@ -1,4 +1,4 @@
-# mbc²
+# mbc-
 
 
 $ pkg install python2
