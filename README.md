@@ -1,15 +1,15 @@
-# mbc
+# mbc²
 
 
 $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/AkinXD/mbc
+$ git clone https://github.com/SaefudinXd/Mbc²
 
 $ pip install requests bs4 cowsay
 
-$ cd mbc
+$ cd Mbc²
 
 $ git pull
 
